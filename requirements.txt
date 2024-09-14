@@ -10,3 +10,4 @@ matplotlib
 python-resize-image
 keras_preprocessing
 tensorflow-object-detection-api
+protobuf==3.20
